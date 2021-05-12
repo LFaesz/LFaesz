@@ -1,16 +1,18 @@
-### Hi there 👋
+## Welcome to my Github profile!!
 
-<!--
-**LFaesz/LFaesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  About me! ⬇
 
-Here are some ideas to get you started:
+<p>Hey! My name is Lucas Faes, I am 16 years old and I live in São Paulo, Brazil! On my free time, I like to playing games 🎮, I watch movies and series 🍕, I also practiced sports ⚽ before pandemic, And of course, I love technology! <p>
+I'm a student of the second year of the high school and I'm doing a tecnic curse about systems development at ETEC! 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills! ⬇
+
++ HTML5/CSS3 🟢⚪⚪
++ JavaScript 🟢⚪⚪
++ Python 🟢⚪⚪
+
+### Connect with me! ⬇
+
+[![Twitter Badge](https://img.shields.io/badge/-faesLucas-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/faesLucas)](https://twitter.com/faesLucas) 
+[![Linkedin Badge](https://img.shields.io/badge/-LucasFaes-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfaes/)](https://www.linkedin.com/in/lucasfaes/) 
+[![Instagram Badge](https://img.shields.io/badge/-LucasFaes-DA2E79?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/faes_lucas/)](https://www.instagram.com/faes_lucas/)

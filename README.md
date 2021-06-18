@@ -9,7 +9,6 @@ I'm a student of the second year of the high school and I'm doing a tecnic curse
 
 + HTML5/CSS3 🟢⚪⚪
 + JavaScript 🟢⚪⚪
-+ Python 🟢⚪⚪
 
 ### Connect with me! ⬇
 

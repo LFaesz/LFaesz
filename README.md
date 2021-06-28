@@ -7,10 +7,10 @@ I'm a student of the second year of the high school and I'm doing a tecnic curse
 
 ### Skills! ⬇
 
-+ HTML5/CSS3 🟢⚪⚪
-+ JavaScript 🟢⚪⚪
++ HTML5/CSS3 
++ JavaScript 
 
 ### Connect with me! ⬇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LucasFaes-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfaes/)](https://www.linkedin.com/in/lucasfaes/) 
-
+![Gmail Badge](https://img.shields.io/badge/-lucasfaes2010@gmail.com-d7413b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasfaes2010@gmail.com)

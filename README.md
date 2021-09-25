@@ -6,9 +6,11 @@
 I'm a student of the second year of the high school and I'm doing a tecnic curse about systems development at ETEC! 💻
 
 ### Skills! ⬇
-
+## Front-end
 + HTML5/CSS3 
 + JavaScript 
+## Back-end
++ Java
 
 ### Connect with me! ⬇
 

@@ -11,8 +11,7 @@ I'm a student of the third year of the high school and I'm doing a tecnic curse 
 + JavaScript 
 ## Back-end
 + PHP
-+ Java
-++ SpringBoot
++ Java / SpringBoot
 ## DataBases
 + MongoDB
 + MySQL

@@ -2,15 +2,19 @@
 
 ###  About me! ⬇
 
-<p>Hey! My name is Lucas Faes, I am 16 years old and I live in São Paulo, Brazil! On my free time, I like to playing games 🎮, I watch movies and series 🍕, I also practiced sports ⚽ before pandemic, And of course, I love technology! <p>
-I'm a student of the second year of the high school and I'm doing a tecnic curse about systems development at ETEC! 💻
+<p>Hey! My name is Lucas Faes, I am 17 years old and I live in São Paulo, Brazil! On my free time, I like to playing games 🎮, I watch movies and series 🍕, I also practiced sports ⚽, And of course, I love technology! <p>
+I'm a student of the third year of the high school and I'm doing a tecnic curse about systems development at ETEC! 💻
 
 ### Skills! ⬇
 ## Front-end
 + HTML5/CSS3 
 + JavaScript 
 ## Back-end
-+ Java
++ PHP
++ Java 
+## DataBases
++ MongoDB
++ MySQL
 
 ### Connect with me! ⬇
 

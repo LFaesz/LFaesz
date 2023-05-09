@@ -15,9 +15,8 @@
 + JavaScript 
 ## Back-end
 + PHP
-+ Java / SpringBoot
++ Laravel
 ## DataBases
-+ MongoDB
 + MySQL
 
 ### Connect with me! ⬇

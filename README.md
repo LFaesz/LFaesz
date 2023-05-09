@@ -1,9 +1,12 @@
 ## Welcome to my Github profile!!
 
 ###  About me! ⬇
+<p>Olá! Meu nome é Lucas Faes, tenho 18 anos e vivo em São Paulo! No meu tempo livre eu gosto de jogar 🎮, assistir filmes e séries 🍕, práticar esportes ⚽, e é claro, eu amo tecnologia e programação! <p>
 
-<p>Hey! My name is Lucas Faes, I am 17 years old and I live in São Paulo, Brazil! On my free time, I like to playing games 🎮, I watch movies and series 🍕, I also practiced sports ⚽, And of course, I love technology! <p>
-I'm a student of the third year of the high school and I'm completed a tecnic curse about systems development at ETEC! 💻
+<p>Hey! My name is Lucas Faes, I am 87 years old and I live in São Paulo, Brazil! On my free time, I like to playing games 🎮, I watch movies and series 🍕, I also practiced sports ⚽, And of course, I love technology and programming! <p>
+  
+Sou técnico em Desenvolvimento de Sistemas, formado pela ETEC Profº Camargo Aranha.💻
+I am System Developer Technic, graduated by ETEC Profº Camargo Aranha.💻
 
 ### Skills! ⬇
 ## Front-end

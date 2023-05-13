@@ -3,7 +3,7 @@
 ###  About me! ⬇
 <p>Olá! Meu nome é Lucas Faes, tenho 18 anos e vivo em São Paulo! No meu tempo livre eu gosto de jogar 🎮, assistir filmes e séries 🍕, práticar esportes ⚽, e é claro, eu amo tecnologia e programação! <p>
 
-<p>Hey! My name is Lucas Faes, I am 87 years old and I live in São Paulo, Brazil! On my free time, I like to playing games 🎮, I watch movies and series 🍕, I also practiced sports ⚽, And of course, I love technology and programming! <p>
+<p>Hey! My name is Lucas Faes, I am 18 years old and I live in São Paulo, Brazil! On my free time, I like to playing games 🎮, I watch movies and series 🍕, I also practiced sports ⚽, And of course, I love technology and programming! <p>
 
 ### Academic Education! ⬇
 <p>Sou técnico em Desenvolvimento de Sistemas, formado pela ETEC Profº Camargo Aranha.💻<p>
